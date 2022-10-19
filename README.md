@@ -20,7 +20,7 @@ To do app made with Google's Flutter Framework. It's compatible with Android and
 - Detele Task
 - Done, Undone Todo
 
-# Getting Started
+## Getting Started
 
 1. [Download](https://flutter.dev/docs/get-started/install) Flutter SDK.
 3. [Download](https://developer.android.com/studio/) Android Studio and install flutter plugin.
